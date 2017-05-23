@@ -1,0 +1,7 @@
+search.json
+auth.py
+*.SAFE
+*.pyc
+.DS_STORE
+*.tmp
+folderToS3.py
